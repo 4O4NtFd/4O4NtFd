@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![404's GitHub stats](https://github-readme-stats.vercel.app/api?username=4O4NtFd&&show_icons=true)
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/4O4NtFd/count.svg" alt="" /></td>
+  </tr>
+</table>
